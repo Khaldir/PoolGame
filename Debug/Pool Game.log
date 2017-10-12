@@ -1,0 +1,9 @@
+﻿  Pool Game.cpp
+  Generating Code...
+  Compiling...
+  simulation.cpp
+c:\users\computing\downloads\pool game v2.0\simulation.h(53): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\computing\downloads\pool game v2.0\simulation.cpp(22): error C2280: 'table::table(void)': attempting to reference a deleted function
+  c:\users\computing\downloads\pool game v2.0\simulation.h(107): note: compiler has generated 'table::table' here
+c:\users\computing\downloads\pool game v2.0\simulation.cpp(58): warning C4305: '=': truncation from 'double' to 'float'
+  Generating Code...
